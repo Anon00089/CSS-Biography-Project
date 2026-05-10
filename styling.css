@@ -1,0 +1,83 @@
+h1[class="Sezar"] {
+    display: flex;
+    font-family: 'Intel One Mono', monospace;
+    font-size: 35px;
+    color: white;
+    justify-content: center;
+}
+
+body {
+    background-color: #a81212;
+}
+
+#main{
+    border: 4px solid white;
+    padding: 5px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+
+}
+
+#second{
+    border: 4px solid white;
+    padding: 5px;
+}
+
+h3{
+    display: flex;
+    font-family: 'Intel One Mono', monospace;
+    font-size: 20px;
+    color: white;
+    justify-content: center;
+}
+
+h2{
+    display: flex;
+    font-family: 'Intel One Mono', monospace;
+    font-size: 20px;
+    color: white;
+    justify-content: center;
+}
+
+h4{
+    display: flex;
+    font-family: 'Intel One Mono', monospace;
+    font-size: 17px;
+    color: white;
+    justify-content: center; 
+}
+
+.sources{
+    display: flex;
+    flex-direction: column;
+}
+
+h4[class="99"]{
+    display: flex;
+    justify-content: flex-start;
+}
+
+a[class="artic1"]{
+    display: flex;
+    font-family: 'Intel One Mono', monospace;
+    font-size: 17px;
+    color: white;
+}
+
+a[class="artic2"]{
+    display: flex;
+    font-family: 'Intel One Mono', monospace;
+    font-size: 17px;
+    color: white; 
+}
+
+a[class="mus1"]{
+    display: flex;
+    font-family: 'Intel One Mono', monospace;
+    font-size: 17px;
+    color: white; 
+}
