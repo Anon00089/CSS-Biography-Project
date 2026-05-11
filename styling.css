@@ -81,3 +81,13 @@ a[class="mus1"]{
     font-size: 17px;
     color: white; 
 }
+
+div[class="riziko"]
+*{ margin-left: 150px;
+    margin-right: 150px;
+    display: flex;  
+}
+
+.container{
+    display: flex;
+}
